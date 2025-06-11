@@ -1,45 +1,22 @@
-# sheishauwa/README.md
+# 🌟 Hauwa Kulu Njidda
 
-👋 Hello!  
-I'm **Hauwa**, a Database Administrator passionate about automation, replication, and high-availability systems across enterprise infrastructures.
+**Cloud | Database | Analytics**
 
----
+Hi! I'm Hauwa, a database administrator and cloud engineer passionate about building reliable systems in the cloud ☁️ and optimizing data pipelines for performance 🚀.
 
-## 📌 Projects
-
-### 🔐 Backup & Recovery Automation (32 Servers)
-Automated SQL Server full and transactional log backups with mail alerts using Database Mail.  
-Tools: SSMS, T-SQL, SQL Server Agent, Windows Task Scheduler  
-> ✅ Result: Reduced manual intervention and ensured consistent backup reporting for disaster recovery.
-
-### 🧑‍💻 NIBSS User Access Management
-Developed stored procedures for auto-disabling users when employees exit and GUID-based password resets.  
-Tools: SQL Server, T-SQL, Security Roles  
-> ✅ Result: Improved access security for over 300+ branch users.
-
-### 🌍 Branch Server Deployment (32 Sites)
-Used Acronis disk imaging, Windows IIS, and MSSQL to deploy servers at branch offices.  
-> ✅ Result: Cut deployment time by 50% and standardized environment setup.
-
-### 🔁 SQL Replication Setup
-Configured SQL Server Transactional Replication across multiple remote branches.  
-> ✅ Result: Enabled near real-time data sync between HQ and remote offices.
+- 🎓 BSc in Computer Science | University of Glasgow  
+- 📍 Based in Nigeria | 🌍 Working globally  
+- 💬 Email: hauwa.dbtech@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hauwa-kulu-njidda)
 
 ---
 
-## ⚙️ Tech Stack
+### 🔧 Tools & Tech
+`SQL` `AWS` `SSRS` `Oracle` `SSIS` `Power BI` `PostgreSQL`
 
-- **Databases**: SQL Server, PostgreSQL, Oracle
-- **Tools**: SSMS, SQL Server Agent, Acronis, IIS
-- **Languages**: T-SQL, PL/SQL, Bash, PowerShell
-- **Cloud**: Azure SQL, AWS RDS (learning phase)
+### 🏆 Certifications
+- AWS Solutions Architect  
+- Oracle DBA  
+- AWS Data Engineer  
 
 ---
-
-## 📬 Contact
-
-You can connect with me via:  
-📧 **hauwa.dbtech@gmail.com**  
-🌍 [LinkedIn](https://www.linkedin.com/in/hauwa-kulu-njidda/)  
-📌 [GitHub Portfolio](https://github.com/HauwaDBA/iris-dba-portfolio)
-
