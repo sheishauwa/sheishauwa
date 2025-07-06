@@ -41,13 +41,6 @@ Right now, I'm exploring **real-time data pipelines on AWS** — my current obse
 
 ---
 
-## 📈 GitHub Stats
-
-![Hauwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HauwaDBA&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HauwaDBA&layout=compact&theme=radical)
-
----
-
 ## 📬 Contact
 
 Connect with me:  
